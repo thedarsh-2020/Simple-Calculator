@@ -1,3 +1,3 @@
-# Simple-Calculator
-Simple Calculator that calculate (add, sub, mull, div) two numbers and show integers and negative numbers
-and clear screen by just press (ON/C) button
+# Simple Calculator
+* Calculator do operations (add, sub, mull, div) of two numbers and display Positive and negative results.
+* Clear screen by (ON/C) button.
